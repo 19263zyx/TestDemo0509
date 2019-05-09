@@ -1,0 +1,140 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\7ce7998cf878da6ca58a4e2160f6cb9a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\cca45bd7d4f2d4ee19bbf055e8553e96\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\fc0ee5b409f7174574423111df17d27c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\5c071e736bb2e9ab771079fc2229100c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a6bf106f2089765adac522744918a2e5\AndroidManifest.xml:2:1-11:12
+INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\7ce7998cf878da6ca58a4e2160f6cb9a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\7ce7998cf878da6ca58a4e2160f6cb9a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\cca45bd7d4f2d4ee19bbf055e8553e96\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\cca45bd7d4f2d4ee19bbf055e8553e96\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\fc0ee5b409f7174574423111df17d27c\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\fc0ee5b409f7174574423111df17d27c\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\5c071e736bb2e9ab771079fc2229100c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\5c071e736bb2e9ab771079fc2229100c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a6bf106f2089765adac522744918a2e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a6bf106f2089765adac522744918a2e5\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\7ce7998cf878da6ca58a4e2160f6cb9a\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.NFC
+ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:13:5-62
+	android:name
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:13:22-59
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:15:5-84
+	android:name
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:15:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:16:22-78
+uses-feature#android.hardware.nfc
+ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:18:5-20:35
+	android:required
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:20:9-32
+	android:name
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:19:9-44
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:22:5-75
+	android:name
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:22:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:23:22-77
+application
+ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:25:5-49:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\7ce7998cf878da6ca58a4e2160f6cb9a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\7ce7998cf878da6ca58a4e2160f6cb9a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\cca45bd7d4f2d4ee19bbf055e8553e96\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\cca45bd7d4f2d4ee19bbf055e8553e96\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\fc0ee5b409f7174574423111df17d27c\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\fc0ee5b409f7174574423111df17d27c\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\5c071e736bb2e9ab771079fc2229100c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\5c071e736bb2e9ab771079fc2229100c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a6bf106f2089765adac522744918a2e5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Caijh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a6bf106f2089765adac522744918a2e5\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:27:9-45
+	android:allowBackup
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:26:9-35
+activity#com.qs.demo.MainActivity
+ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:29:9-47:20
+	android:screenOrientation
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:31:13-45
+	android:launchMode
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:32:13-43
+	android:theme
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:34:13-55
+	android:name
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:30:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:38:27-74
+intent-filter#android.nfc.action.TECH_DISCOVERED
+ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:40:13-42:29
+action#android.nfc.action.TECH_DISCOVERED
+ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:41:25-74
+meta-data#android.nfc.action.TECH_DISCOVERED
+ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:44:13-46:59
+	android:resource
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:46:17-56
+	android:name
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:45:17-66
+activity#com.qs.demo.ScanPrintAcivity
+ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:48:9-65
+	android:name
+		ADDED from E:\QSPDA_studio\TestDemo\app\src\main\AndroidManifest.xml:48:19-62
